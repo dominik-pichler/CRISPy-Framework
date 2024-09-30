@@ -5,22 +5,23 @@ This collection is planed to be executed both by asking industry experts for bes
 
 
 # CRISP ML(Q)
+# CRISP ML(Q)
 
 ## 1. Business and Data Understanding
 
 ### a. Scope of Application
-- Business Needs
+- **Business Needs**
 
 ### b. Measurable Success Criteria
 
 #### i. Business Success Criteria
-- Purpose and Success Criteria from a business point of view
+- **Purpose and Success Criteria** from a business point of view
 
 #### ii. ML Success Criteria
-- Define minimum acceptable level of performance to meet the business goals
+- Define the **minimum acceptable level of performance** to meet the business goals
 
 #### iii. Economic Success Criteria
-- Objective ML Success by Introduction of KPI(s)
+- Objective ML Success by **Introduction of KPI(s)**
 
 ### c. Feasibility
 
@@ -29,15 +30,15 @@ This collection is planed to be executed both by asking industry experts for bes
 #### ii. Legal Constraints
 
 #### iii. Requirements on the Application
-1. Robustness
-2. Scalability
-3. Explainability
-4. Resource Demand
+- **Robustness**
+- **Scalability**
+- **Explainability**
+- **Resource Demand**
 
 ### d. Data Collection
 
 #### i. Data Collection Plan
-- In terms of Cost and Time needed to collect enough consistent data
+- In terms of **Cost and Time** needed to collect enough consistent data
 
 #### ii. Data Version Control
 - Data is collected iteratively, hence (planned) modifications of the dataset should be documented
@@ -60,29 +61,30 @@ This collection is planed to be executed both by asking industry experts for bes
 
 ### b. Select Features
 
-#### i. Can be separated into three categories:
-1. Filter Methods
-2. Wrapper Methods
-3. Embedded Methods
+#### i. Categories of Feature Selection:
+- **Filter Methods**
+- **Wrapper Methods**
+- **Embedded Methods**
 
-#### ii. Would be good to have someone with expert knowledge have a look at it again.
+#### ii. Expert Review
+- It would be beneficial to have someone with expert knowledge review it again.
 
 #### iii. Data Selection
-- Discarding features/samples should be well documented and strictly based on objective quality criteria
+- Discarding features/samples should be well documented and strictly based on objective quality criteria.
 
 #### iv. Unbalanced Classes
 
 ### c. Clean Data
 
-#### i. Noise reduction
+#### i. Noise Reduction
 
-#### ii. Data imputation
+#### ii. Data Imputation
 
 ### d. Construct Data
 
 #### i. Feature Engineering
 
-#### ii. Data augmentation
+#### ii. Data Augmentation
 
 ### e. Standardized Data
 
@@ -95,11 +97,11 @@ This collection is planed to be executed both by asking industry experts for bes
 ### a. Literature Research on Similar Problems
 
 ### b. Define Quality Measures of the Model
-1. Robustness
-2. Explainability
-3. Scalability
-4. Resource Demand
-5. Model Complexity
+- **Robustness**
+- **Explainability**
+- **Scalability**
+- **Resource Demand**
+- **Model Complexity**
 
 ### c. Model Selection
 
@@ -112,12 +114,12 @@ This collection is planed to be executed both by asking industry experts for bes
 ### g. Ensemble Methods
 
 ### h. Result Reproducibility
-- Experimental Documentation
+- **Experimental Documentation**
 
 ## 4. Evaluation 
 
 ### a. Validate Performance
-- Come up with a plan to validate the performance
+- Develop a plan to validate performance.
 
 ### b. Determine Robustness
 
@@ -129,7 +131,7 @@ This collection is planed to be executed both by asking industry experts for bes
 
 ### a. Define Inference Hardware
   
-### b.Model Evaluation under Production Condition
+### b.Model Evaluation under Production Conditions
   
 ### c.Assure User Acceptance and Usability
   
@@ -145,8 +147,8 @@ This collection is planed to be executed both by asking industry experts for bes
 3.System updates 
   
 ### b.Monitor 
-1.Monitor all input signals and compared to training data -> in this way, updates in the input data could be caught.
-2.What to do with anomalies in the input? 
-3.Monitoring History of Performance 
+1.Monitor all input signals compared to training data to catch updates in the input data.
+2.Determine actions for anomalies in the input.
+3.Monitor History of Performance 
   
-### c.Update
+### c.Update 
