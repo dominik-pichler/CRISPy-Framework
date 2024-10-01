@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "BIAS_IN_CRISP.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 727.5
+    "width": 727.5,
+    "collapsed": true
   },
   "right": {
     "id": "20b98033917a4e30",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "BIAS_IN_CRISP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "BIAS_IN_CRISP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "BIAS_IN_CRISP.md"
               }
             }
           }
@@ -148,10 +149,10 @@
   },
   "active": "61b9de2b82c0d1ae",
   "lastOpenFiles": [
+    "README.md",
     "~$ISP_ML_checklist.docx",
     "~$ISP DM & ML(Q) Summary.docx",
     "BIAS_IN_CRISP.md",
-    "README.md",
     "papers/CRISP ML(Q).pdf",
     "papers/Eberle Fabian - 2023 - Systematic extension of a data mning process-model by...pdf",
     "drawings/Pasted image 20240925160930.png",
