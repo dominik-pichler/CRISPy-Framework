@@ -3,9 +3,39 @@ Eventually, best practies will be collected and added as further nodes to each a
 This collection is planed to be executed both by asking industry experts for best practices, as well as scraping and analysing scientific papers.
 
 
+# Process
 
-# CRISP ML(Q)
-# CRISP ML(Q)
+![[CRISP_ML(Q)_Phase 1 (Business & Data Understanding).drawio.svg]]
+
+
+![[CRISP_ML(Q)_Phases-Phase 2 (Data Preperation).drawio.svg]]
+
+
+
+![[CRISP_ML(Q)_Phases-Phase 3 Modelling.drawio.svg]]
+
+
+
+![[CRISP_ML(Q)_Phases-Phase 4 Evaluation.drawio.svg]]
+
+
+
+![[CRISP_ML(Q)_Phases-Phase 5 Deployment.drawio.svg]]
+
+
+
+![[CRISP_ML(Q)_Phases-Phase 6 M&M.drawio.svg]]
+
+
+
+
+
+
+
+
+
+
+# Checklist
 
 ## 1. Business and Data Understanding
 
