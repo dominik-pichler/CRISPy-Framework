@@ -5,7 +5,7 @@ This collection is planed to be executed both by asking industry experts for bes
 
 # Process
 
-![[CRISP_ML(Q)_Phase 1 (Business & Data Understanding).drawio.svg]]
+![[Process_graphics/CRISP_ML(Q)_Phase 1 (Business & Data Understanding).drawio.svg]]
 
 
 ![[CRISP_ML(Q)_Phases-Phase 2 (Data Preperation).drawio.svg]]
