@@ -4,30 +4,27 @@ This collection is planed to be executed both by asking industry experts for bes
 
 
 # Process
-![Alt text](Process_graphics/CRISPML1.drawio.svg)`
-![[Process_graphics/CRISP_ML(Q)_Phase 1 (Business & Data Understanding).drawio.svg]]
-
-
-![[CRISP_ML(Q)_Phases-Phase 2 (Data Preperation).drawio.svg]]
+![Wer das ließt hat zu schlechtes Internet](Process_graphics/CRISPML1.drawio.svg)`
 
 
 
-![[CRISP_ML(Q)_Phases-Phase 3 Modelling.drawio.svg]]
+
+![Wer das ließt hat zu schlechtes Internet](Process_graphics/CRISPML2.drawio.svg)
 
 
 
-![[CRISP_ML(Q)_Phases-Phase 4 Evaluation.drawio.svg]]
+
+![Wer das ließt hat zu schlechtes Internet](Process_graphics/CRISPML3.drawio.svg)![Wer das ließt hat zu schlechtes Internet](Process_graphics/CRISPML4.drawio.svg)
 
 
 
-![[CRISP_ML(Q)_Phases-Phase 5 Deployment.drawio.svg]]
+
+![Wer das ließt hat zu schlechtes Internet](Process_graphics/CRISPML5.drawio.svg)
 
 
 
-![[CRISP_ML(Q)_Phases-Phase 6 M&M.drawio.svg]]
 
-
-
+![Wer das ließt hat zu schlechtes Internet](Process_graphics/CRISPML6.drawio.svg)
 
 
 
